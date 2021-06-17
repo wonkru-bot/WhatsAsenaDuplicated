@@ -17,7 +17,7 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *WhatsAsena*:  ```" + msg + "```"
+    return "✅ *XDGangZ*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
     return "🛑 *WhatsAsena*:  ```" + msg + "```"
